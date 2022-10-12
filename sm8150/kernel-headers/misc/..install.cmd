@@ -1,1 +1,1 @@
-cmd_hahayes/include/misc/.install := /bin/bash ../scripts/headers_install.sh hahayes/include/misc ../include/uapi/misc cxl.h drv8846.h; /bin/bash ../scripts/headers_install.sh hahayes/include/misc ./include/generated/uapi/misc ; touch hahayes/include/misc/.install
+cmd_headers/include/misc/.install := /bin/bash ../scripts/headers_install.sh headers/include/misc ../include/uapi/misc akm09970.h cxl.h drv8846.h; /bin/bash ../scripts/headers_install.sh headers/include/misc ./include/generated/uapi/misc ; touch headers/include/misc/.install
